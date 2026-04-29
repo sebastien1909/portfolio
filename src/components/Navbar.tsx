@@ -61,7 +61,7 @@ const Navbar = ({ activeSection }: NavbarProps) => {
           </div>
 
           <motion.a
-            href="https://sebastien1909.github.io/Portfolio_beta/img/1B2-Confrere%20Sebastien-CVV1.pdf"
+            href="/portfolio/CV-DevWeb-ConfrereSebastien.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="hidden md:inline-flex px-5 py-2 rounded-lg font-medium text-sm gradient-border text-gradient hover:glow-purple transition-all duration-300"

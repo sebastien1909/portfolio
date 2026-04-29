@@ -66,7 +66,7 @@ const Hero = () => {
             className="flex flex-col sm:flex-row gap-4"
           >
             <motion.a
-              href="https://sebastien1909.github.io/Portfolio_beta/img/1B2-Confrere%20Sebastien-CVV1.pdf"
+              href="/portfolio/CV-DevWeb-ConfrereSebastien.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center px-8 py-3 rounded-lg font-semibold bg-gradient-to-r from-primary to-secondary text-primary-foreground hover:shadow-lg hover:glow-purple transition-all duration-300"

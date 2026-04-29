@@ -22,7 +22,7 @@ const Footer = () => {
 
           <div className="flex flex-col items-center md:items-end gap-3">
             <motion.a
-              href="https://sebastien1909.github.io/Portfolio_beta/img/1B2-Confrere%20Sebastien-CVV1.pdf"
+              href="/portfolio/CV-DevWeb-ConfrereSebastien.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-6 py-2 rounded-lg font-medium text-sm bg-gradient-to-r from-primary to-secondary text-primary-foreground hover:glow-purple transition-all duration-300"

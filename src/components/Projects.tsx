@@ -43,6 +43,30 @@ const projectsData = [
     color: "from-teal-500 to-blue-500",
     icon: "💧",
   },
+  {
+    title: "LocFit",
+    description:
+      "Site de location de matériel de sport entre particuliers, avec réservations et paiements. Réalisé en équipe sur Node.js principalement.",
+    tags: ["JavaScript", "Node.js", "API"],
+    color: "from-yellow-500 to-gray-500",
+    icon: "💪",
+  },
+  {
+    title: "PaddockLife",
+    description:
+      "Boutique e-commerce de matériel en lien avec la motocross, allant de pièces décoratives, vêtements et accessoires, à des pièces et des produits dédiés à la mécaniques sur de vraies motocross.",
+    tags: ["Prestashop", "CSS", "NoSQL"],
+    color: "from-red-500 to-blue-500",
+    icon: "🏍️",
+  },
+  {
+    title: "QuickSeat",
+    description:
+      "Réalisation du design d'une application d'aggrégation de spectacle dans les côtes d'armor, avec réservation et achat de billets intégré. Design responsive, ergonomique, et réalisé en fonction d'un persona précis.",
+    tags: ["Figma", "Wireframe", "Mock-up", "User Journey Map"],
+    color: "from-blue-500 to-cyan-500",
+    icon: "🎫",
+  },
 ];
 
 const Projects = () => {

@@ -6,13 +6,13 @@ const skillsData = [
   {
     category: "Développement Web",
     icon: "🌐",
-    skills: ["HTML", "CSS", "JavaScript", "PHP"],
+    skills: ["HTML", "CSS", "JavaScript", "PHP", "SQL", "Node.js", "Express"],
     color: "from-primary to-secondary",
   },
   {
     category: "Web Design",
     icon: "✨",
-    skills: ["Figma", "Wireframe.cc", "Maquettes", "UX/UI"],
+    skills: ["Figma", "Wireframe", "Maquettes", "UX/UI"],
     color: "from-pink-500 to-purple-500",
   },
   {
@@ -24,19 +24,19 @@ const skillsData = [
   {
     category: "Montage Photo",
     icon: "📸",
-    skills: ["Affinity Photo", "Adobe Photoshop", "Retouche"],
+    skills: ["Affinity Photo", "Adobe Photoshop"],
     color: "from-blue-500 to-cyan-500",
   },
   {
     category: "Montage Vidéo",
     icon: "🎬",
-    skills: ["DaVinci Resolve", "Courts métrages", "Films"],
+    skills: ["DaVinci Resolve", "Adobe Premiere Pro"],
     color: "from-green-500 to-teal-500",
   },
   {
     category: "Gestion de Projet",
     icon: "📋",
-    skills: ["Cahier des charges", "SWOT", "PESTEL", "Gantt"],
+    skills: ["Cahier des charges", "SWOT", "PESTEL", "Gantt", "SCRUM"],
     color: "from-yellow-500 to-orange-500",
   },
 ];
